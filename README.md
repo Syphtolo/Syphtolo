@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Syphtolo
-- 👀 I’m interested in learning to code Java and websites.
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested in learning to code websites.
 - I'm looking forward to learning more about Java through Hytale mods.
 
 <!---
